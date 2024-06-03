@@ -6,7 +6,7 @@
           <h1 class="text-2xl font-bold">Rick and Morty</h1>
         </div>
         <nav class="hidden md:flex space-x-4">
-          <router-link to="/characters" class="hover:text-gray-400">Characters</router-link>
+          <router-link to="/" class="hover:text-gray-400">Characters</router-link>
           <router-link to="/locations" class="hover:text-gray-400">Locations</router-link>
           <router-link to="/episodes" class="hover:text-gray-400">Episodes</router-link>
         </nav>
